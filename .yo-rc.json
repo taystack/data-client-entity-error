@@ -1,0 +1,20 @@
+{
+  "@anansi/generator-js": {
+    "githubOrg": "taystack",
+    "rootPath": "src",
+    "assetPath": "dist",
+    "serverPath": "dist-server",
+    "appName": "rest-hooks-error",
+    "githubDomain": "github.com",
+    "testing": true,
+    "features": [
+      "testing",
+      "CI"
+    ],
+    "badges": "",
+    "spa": true,
+    "webpack": true,
+    "style": "linaria",
+    "devssl": false
+  }
+}
